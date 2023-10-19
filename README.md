@@ -28,7 +28,7 @@
 
 # Site Goals
   
-The goeal is to provide the quiz game lovers with a simple short  game
+The goal is to provide the quiz game lovers with a simple short  game
 
 
 
@@ -63,7 +63,6 @@ I followed a blue white color scheme
 
 # The Game Area
 
-![Game Are](IMG-8213.jpg)
 
 It has a very short Javascript Code to demostrate what is possible.  
 There are four questions where each has four different answers.
@@ -73,6 +72,8 @@ At the end it shows you the number of correct answer out of the total.
 
 In this part the user can see the Question and choose between
 four different answers
+
+![Game Are](IMG-8213.jpg)
 
 # The question section
 
