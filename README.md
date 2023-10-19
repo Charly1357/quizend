@@ -35,6 +35,26 @@ You can only choose  once per question and the different
 colors indicate if the answer was correct or wrong.
 At the end it shows you the number of correct answer out of the total.
 
+# Colors
+
+  * Black:
+      * background app
+      * next button
+      * play again button
+      * hover buttons
+ 
+  * White: 
+      * background game area
+      * buttons
+
+  * Green:
+      * buttons corect answer
+  * Red:
+      * button wrong answer
+
+
+  
+
 # Features
 
 
