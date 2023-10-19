@@ -44,10 +44,14 @@ At the end it shows you the number of correct answer out of the total.
 
 # The Game Area
 
+![Game Are](IMG-8213.jpg)
+
 In this part the user can see the Question and choose between
 four different answers
 
 # The question section
+
+![Game Area](IMG-8212.jpg)
 
 In this section the user can read the question
 and the number  and choose between four  
