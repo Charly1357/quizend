@@ -106,6 +106,10 @@ The user should be able to select between different topics the questions.
 The testing was done between several other people and since it is very
 simple it didn´t  crash.
 
+# Perfommance
+
+![Performance]()
+
 # Validator Testing
 
 * HTML
