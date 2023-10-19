@@ -1,8 +1,7 @@
 ![Responsive](IMG-8199.jpg)
 
-![Responsive](https://ui.dev/amiresponsive?url=https://charly1357.github.io/quizsimple/)
-![responsive image](IMG-8199.JPG)
-[Link to live site](https://charly1357.github.io/quizsimple)
+
+[Link to live site](https://charly1357.github.io/quizend)
 
 # Index -Table of Contents
 
