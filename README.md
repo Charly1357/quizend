@@ -63,6 +63,14 @@ The buttons are disabled and the next buttons appears
 After going through the four questions the user gets the result correct   
 score is a point versus total score.  
 
+
+# The Score Area
+
+  * This area will allow the user to see exactly how many correct and   
+  * and incorrect answers they have 
+  
+![Score Area](IMG-8215.jpg)
+
 # Features Left to Implement
 
 The user should be able to select between different topics the questions.
