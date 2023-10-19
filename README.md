@@ -87,4 +87,11 @@ simple it didn´t  crash.
   
 * CSS
   * Document checking completed. No errors or warnings to show.  
+
+* JAVA  
+  * several errors 
+    * 39:25 error 'document' is not defined
+    * 40:23 / 41:20 /57:20the same 
   
+
+    
