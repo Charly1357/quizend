@@ -94,4 +94,7 @@ simple it didn´t  crash.
     * 40:23 / 41:20 /57:20the same 
   
 
-    
+# Credits 
+
+* YouTube Create a Quiz with Timer using HTML CSS Javascript. 
+* YouTube How to make a Quiz App using Javascript.  
