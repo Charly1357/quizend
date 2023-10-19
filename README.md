@@ -31,7 +31,7 @@
 This is a quizsimple game .  
 It has a very short Javascript Code to demostrate what is possible.  
 There are four questions where each has four different answers.
-You can only choose only once per question and the different
+You can only choose  once per question and the different
 colors indicate if the answer was correct or wrong.
 At the end it shows you the number of correct answer out of the total.
 
