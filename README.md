@@ -37,6 +37,9 @@ At the end it shows you the number of correct answer out of the total.
 
 # Features
 
+
+![Title](IMG-8204.jpg)
+
  At the top left is the Quiz heading
 
 # The Game Area
