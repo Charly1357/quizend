@@ -26,16 +26,15 @@
 * Credits
   * Code
 
-# Design
+# Site Goals
   
-This is a quizsimple game .  
-It has a very short Javascript Code to demostrate what is possible.  
-There are four questions where each has four different answers.
-You can only choose  once per question and the different
-colors indicate if the answer was correct or wrong.
-At the end it shows you the number of correct answer out of the total.
+The goeal is to provide the quiz game lovers with a simple short  game
+
+
 
 # Colors
+
+I followed a blue white color scheme
 
   * Black:
       * background app
@@ -65,6 +64,12 @@ At the end it shows you the number of correct answer out of the total.
 # The Game Area
 
 ![Game Are](IMG-8213.jpg)
+
+It has a very short Javascript Code to demostrate what is possible.  
+There are four questions where each has four different answers.
+You can only choose  once per question and the different
+colors indicate if the answer was correct or wrong.
+At the end it shows you the number of correct answer out of the total.
 
 In this part the user can see the Question and choose between
 four different answers
